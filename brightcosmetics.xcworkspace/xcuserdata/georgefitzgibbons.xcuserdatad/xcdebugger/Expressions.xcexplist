@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "CartTableViewCell.displayProducts(product:):CartTableViewCell.swift">
+      </ContextState>
+      <ContextState
+         contextName = "CartViewController.viewDidLoad():CartViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MoltinManager.getCartItems(cartId:):MoltinManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in MoltinManager.getCartItems(cartId:):MoltinManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MoltinManager.createCustomer(userName:userEmail:):MoltinManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MoltinManager.cartProducts(productId:):MoltinManager.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
